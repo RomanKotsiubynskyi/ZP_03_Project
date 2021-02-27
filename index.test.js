@@ -11,7 +11,7 @@ describe ('Taylor series', function ()
 });
 
 it ('has to be equal to 10', function(){
-    assert.equal(Calc.Taylor(), 9); 
+    assert.equal(Calc.Taylor(), 9); // must be 10
 });
 }
 );
